@@ -1,0 +1,4 @@
+{"tipo": "metricas", "conjunto_datos": "entrenamiento", "precision": 0.7026920031670626, "exactitud_balanceada": 0.6646916688511463, "sensibilidad": 0.37566137566137564, "puntaje_f1": 0.4895876430837126}
+{"tipo": "metricas", "conjunto_datos": "prueba", "precision": 0.6736745886654479, "exactitud_balanceada": 0.6681000149987337, "sensibilidad": 0.38667366211962223, "puntaje_f1": 0.49133333333333334}
+{"tipo": "matriz_confusion", "conjunto_datos": "entrenamiento", "verdadero_0": {"predicho_0": 15477, "predicho_1": 751}, "verdadero_1": {"predicho_0": 2950, "predicho_1": 1775}}
+{"tipo": "matriz_confusion", "conjunto_datos": "prueba", "verdadero_0": {"predicho_0": 6716, "predicho_1": 357}, "verdadero_1": {"predicho_0": 1169, "predicho_1": 737}}
